@@ -5,4 +5,5 @@ I am working on building 20 small projects from the Brad Traversy Udemy course "
 This will be a simple form with some styling and JavaScript to validate it.
 
 ## VSCode Notes
-- Holding **shift + option + down** will copy a block of code.
+- Keyboard shortcut: **shift + option + down** will copy a block of code.
+- Keyboard shortcut: **option + up** will move a block of code up.
